@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![@triet1213's Holopin board](https://holopin.me/triet1213)](https://holopin.io/@triet1213)
 <!--
 **triet1213/triet1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
